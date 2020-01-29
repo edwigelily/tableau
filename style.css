@@ -1,15 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Rubik&display=swap');
 table{
-    border-collapse: collapse;       
-    display: block;
+    border-collapse: collapse; 
     justify-content: center;
-
+    margin: 15%;
+    text-align: center;
+  
 }
 td,th{
     border: solid;
 }
-strong{
-    text-align: center;
+td{
+    color: red;
 }
 caption{
     font-family: 'Dancing Script', cursive;
@@ -17,6 +18,3 @@ caption{
     font-weight: bold;
     font-size: 2em;
 }
-main{
-    
- }
